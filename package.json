@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "acorn@git://github.com/Crydust/acorn.git#semicolon",
+        "scope": null,
+        "escapedName": "acorn",
+        "name": "acorn",
+        "rawSpec": "git://github.com/Crydust/acorn.git#semicolon",
+        "spec": "git://github.com/Crydust/acorn.git#semicolon",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:Crydust/acorn.git#semicolon",
+          "sshUrl": "git+ssh://git@github.com/Crydust/acorn.git#semicolon",
+          "httpsUrl": "git+https://github.com/Crydust/acorn.git#semicolon",
+          "gitUrl": "git://github.com/Crydust/acorn.git#semicolon",
+          "shortcut": "github:Crydust/acorn#semicolon",
+          "directUrl": "https://raw.githubusercontent.com/Crydust/acorn/semicolon/package.json"
+        }
+      },
+      "I:\\Sviluppo\\Workspaces\\MyEclipseProfessional\\um-ui\\node_modules\\grunt-jssemicoloned"
+    ]
+  ],
+  "_from": "git://github.com/Crydust/acorn.git#semicolon",
+  "_id": "acorn@0.1.1-semicolon",
+  "_inCache": true,
+  "_location": "/acorn",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "acorn@git://github.com/Crydust/acorn.git#semicolon",
+    "scope": null,
+    "escapedName": "acorn",
+    "name": "acorn",
+    "rawSpec": "git://github.com/Crydust/acorn.git#semicolon",
+    "spec": "git://github.com/Crydust/acorn.git#semicolon",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:Crydust/acorn.git#semicolon",
+      "sshUrl": "git+ssh://git@github.com/Crydust/acorn.git#semicolon",
+      "httpsUrl": "git+https://github.com/Crydust/acorn.git#semicolon",
+      "gitUrl": "git://github.com/Crydust/acorn.git#semicolon",
+      "shortcut": "github:Crydust/acorn#semicolon",
+      "directUrl": "https://raw.githubusercontent.com/Crydust/acorn/semicolon/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/grunt-jssemicoloned"
+  ],
+  "_resolved": "git://github.com/Crydust/acorn.git#aa15119bfc7acaebaff4067a3051d85d220f9975",
+  "_shasum": "f4f5ab7e58b7b4ebfd446dd808d5ccc260674be3",
+  "_shrinkwrap": null,
+  "_spec": "acorn@git://github.com/Crydust/acorn.git#semicolon",
+  "_where": "I:\\Sviluppo\\Workspaces\\MyEclipseProfessional\\um-ui\\node_modules\\grunt-jssemicoloned",
+  "bin": {
+    "acorn": "./bin/acorn"
+  },
+  "dependencies": {},
+  "description": "ECMAScript parser",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "gitHead": "aa15119bfc7acaebaff4067a3051d85d220f9975",
+  "homepage": "http://marijnhaverbeke.nl/acorn/",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://marijnhaverbeke.nl/acorn/LICENSE"
+    }
+  ],
+  "main": "acorn.js",
+  "maintainers": [
+    {
+      "name": "Marijn Haverbeke",
+      "email": "marijnh@gmail.com",
+      "url": "http://marijnhaverbeke.nl"
+    }
+  ],
+  "name": "acorn",
+  "optionalDependencies": {},
+  "readme": "# Acorn\r\n\r\nA tiny, fast JavaScript parser in JavaScript.\r\n\r\nSee http://marijnhaverbeke.nl/acorn/\r\n",
+  "readmeFilename": "README.md",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "http://marijnhaverbeke.nl/git/acorn"
+    },
+    {
+      "type": "git",
+      "url": "https://github.com/marijnh/acorn.git"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://marijnhaverbeke.nl/git/acorn"
+  },
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "version": "0.1.1-semicolon"
+}
