@@ -2,47 +2,47 @@
   "_args": [
     [
       {
-        "raw": "acorn@git://github.com/Crydust/acorn.git#semicolon",
+        "raw": "acorn@git://github.com/afxgroup/acorn.git#semicolon",
         "scope": null,
         "escapedName": "acorn",
         "name": "acorn",
-        "rawSpec": "git://github.com/Crydust/acorn.git#semicolon",
-        "spec": "git://github.com/Crydust/acorn.git#semicolon",
+        "rawSpec": "git://github.com/afxgroup/acorn.git#semicolon",
+        "spec": "git://github.com/afxgroup/acorn.git#semicolon",
         "type": "hosted",
         "hosted": {
           "type": "github",
-          "ssh": "git@github.com:Crydust/acorn.git#semicolon",
-          "sshUrl": "git+ssh://git@github.com/Crydust/acorn.git#semicolon",
-          "httpsUrl": "git+https://github.com/Crydust/acorn.git#semicolon",
-          "gitUrl": "git://github.com/Crydust/acorn.git#semicolon",
-          "shortcut": "github:Crydust/acorn#semicolon",
-          "directUrl": "https://raw.githubusercontent.com/Crydust/acorn/semicolon/package.json"
+          "ssh": "git@github.com:afxgroup/acorn.git#semicolon",
+          "sshUrl": "git+ssh://git@github.com/afxgroup/acorn.git#semicolon",
+          "httpsUrl": "git+https://github.com/afxgroup/acorn.git#semicolon",
+          "gitUrl": "git://github.com/afxgroup/acorn.git#semicolon",
+          "shortcut": "github:afxgroup/acorn#semicolon",
+          "directUrl": "https://raw.githubusercontent.com/afxgroup/acorn/semicolon/package.json"
         }
       },
       "I:\\Sviluppo\\Workspaces\\MyEclipseProfessional\\um-ui\\node_modules\\grunt-jssemicoloned"
     ]
   ],
-  "_from": "git://github.com/Crydust/acorn.git#semicolon",
+  "_from": "git://github.com/afxgroup/acorn.git#semicolon",
   "_id": "acorn@0.1.1-semicolon",
   "_inCache": true,
   "_location": "/acorn",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "acorn@git://github.com/Crydust/acorn.git#semicolon",
+    "raw": "acorn@git://github.com/afxgroup/acorn.git#semicolon",
     "scope": null,
     "escapedName": "acorn",
     "name": "acorn",
-    "rawSpec": "git://github.com/Crydust/acorn.git#semicolon",
-    "spec": "git://github.com/Crydust/acorn.git#semicolon",
+    "rawSpec": "git://github.com/afxgroup/acorn.git#semicolon",
+    "spec": "git://github.com/afxgroup/acorn.git#semicolon",
     "type": "hosted",
     "hosted": {
       "type": "github",
-      "ssh": "git@github.com:Crydust/acorn.git#semicolon",
-      "sshUrl": "git+ssh://git@github.com/Crydust/acorn.git#semicolon",
-      "httpsUrl": "git+https://github.com/Crydust/acorn.git#semicolon",
-      "gitUrl": "git://github.com/Crydust/acorn.git#semicolon",
-      "shortcut": "github:Crydust/acorn#semicolon",
-      "directUrl": "https://raw.githubusercontent.com/Crydust/acorn/semicolon/package.json"
+      "ssh": "git@github.com:afxgroup/acorn.git#semicolon",
+      "sshUrl": "git+ssh://git@github.com/afxgroup/acorn.git#semicolon",
+      "httpsUrl": "git+https://github.com/afxgroup/acorn.git#semicolon",
+      "gitUrl": "git://github.com/afxgroup/acorn.git#semicolon",
+      "shortcut": "github:afxgroup/acorn#semicolon",
+      "directUrl": "https://raw.githubusercontent.com/afxgroup/acorn/semicolon/package.json"
     }
   },
   "_requiredBy": [
